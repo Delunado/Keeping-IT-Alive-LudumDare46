@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarretillaPlayer
+  m_Controller: {fileID: 9100000, guid: c6adf891ffe3be845a18ec653dc2d0cc, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7609cbdc6d2e4d142864b96fbd0255c8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7609cbdc6d2e4d142864b96fbd0255c8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3af6b596271a7c941ac2fccadbadb8b4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a947ca310f39ea54289598bb2bf86142, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 72bb29c23def4d346ab2a0ebb98c806b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 263fdc1e78f10ec4abd96c52ced63d6d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 06b98672658eea841b62bb8b7e1091b8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0bdb27b42ab520b4fb6a56c17bcbd519, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f906cf7bd70507d4ca02e8940f445f31, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8066965dc50036f49aa156436c33887c, type: 2}
