@@ -2,7 +2,7 @@
 
 **Keeping IT alive** is a Game Jam game, submitted to the [Ludum Dare 46](https://ldjam.com/). The game was developed in 72 hours. The theme of the Jam was "**Keep it alive**".
 
-You can try it [here](https://tea-team.itch.io/keeping-it-alive) on your browser or download it [here](rellenar) for Windows!
+You can try it on your browser or download it for Windows [here](https://tea-team.itch.io/keeping-it-alive)!
 
 ### What's "Keeping IT alive" about?
 Keeping IT alive is a *creepy procedural scroller* where you play as Jose María, a common guy. He is alone, walking on a rainy day. Then, a surprise in the sewers changes his life for the next 7 days.
@@ -13,7 +13,7 @@ Once you start the adventure... take the trolley, get the kids and never left th
 - **[Unity](https://unity.com/)** as the game engine. 
 - **[Visual Studio 2017](https://visualstudio.microsoft.com/)** as the IDE.
 - **[Photoshop](https://www.adobe.com/es/products/photoshop.html)** for the art.
-- **[Esto]()** for the music & SFX.
+- **[Reaper](https://www.reaper.fm/)** for the music & SFX.
 - **Pen, paper & [Google Docs](https://www.google.es/intl/es/docs/about/)** for the game design.
 
 ### Credits
