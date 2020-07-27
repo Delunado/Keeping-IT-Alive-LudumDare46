@@ -23,7 +23,7 @@ Four developers have participated in this game. Here more info about everyone!
 - Javier [(@Devlunado)](https://twitter.com/Delunad0): Javier worked on gameplay and systems programming and project management.
 - Nacho [(@Casale_ig)](https://twitter.com/Casale_ig): Nacho worked on some gameplay programming and UX/Effects/Animations.
 - Anastasia [(@NastiArt_)](https://twitter.com/NastiArt_): Anastasia worked on the art.
-- Victor [@Victor_Seven7](https://twitter.com/Victor_Seven7):  Victor worked on music and SFX.
+- Victor [(@Victor_Seven7)](https://twitter.com/Victor_Seven7):  Victor worked on music and SFX.
 
 We also used a few assets from [Flaticon](https://www.flaticon.es/) & some SFX from [Freesound](https://freesound.org/). 
 
